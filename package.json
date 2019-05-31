@@ -18,9 +18,5 @@
     "firebase-functions": "^2.0.2",
     "dialogflow": "^0.6.0",
     "dialogflow-fulfillment": "^0.5.0"
-  },
-  "someservice": {
-    "key":"AIzaSyAxbQm5nrXZpSdc3vur04uBQsJ-AwqKNFk",
-    "id":"1:1046614278689:web:d5108e3779d2d3aa"
   }
 }
